@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="第 1 页" id="01-fdeQL0Y3d3izf4ugT">
-    <mxGraphModel dx="693" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,40 @@
           <mxGeometry x="250" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RIsinwZEqv1sB8How32N-2" value="商店" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="250" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RIsinwZEqv1sB8How32N-3" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="100" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RIsinwZEqv1sB8How32N-4" value="会员客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="320" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="10" width="240" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-6" value="音像商店管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-7" value="按照请求订购" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-9" value="订光盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-10" value="租光盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-11" value="卖光盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-12" value="在线订购光盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-13" value="搜索光盘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8eVxV-G44GZBnrh_kmGq-14" value="提出预定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
