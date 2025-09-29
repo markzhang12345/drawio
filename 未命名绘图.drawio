@@ -61,7 +61,7 @@
         <mxCell id="uLZXbfQ6GJuZrOZhjSxK-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uLZXbfQ6GJuZrOZhjSxK-36" target="uLZXbfQ6GJuZrOZhjSxK-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLZXbfQ6GJuZrOZhjSxK-36" value="预算" style="fontStyle=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uLZXbfQ6GJuZrOZhjSxK-36" value="预算（initial）" style="fontStyle=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="680" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLZXbfQ6GJuZrOZhjSxK-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uLZXbfQ6GJuZrOZhjSxK-38" target="uLZXbfQ6GJuZrOZhjSxK-40" edge="1">
@@ -121,8 +121,14 @@
         <mxCell id="uLZXbfQ6GJuZrOZhjSxK-53" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1670" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SOsJHN9KbVqRuwe2kCM1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOsJHN9KbVqRuwe2kCM1-1" target="SOsJHN9KbVqRuwe2kCM1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SOsJHN9KbVqRuwe2kCM1-1" value="具体需求（actual）" style="fontStyle=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOsJHN9KbVqRuwe2kCM1-4" value="重新核算成本" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
